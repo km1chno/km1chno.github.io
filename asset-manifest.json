@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e10c5432.css",
+    "main.js": "/static/js/main.0a6f8c46.js",
+    "static/js/453.404dcecf.chunk.js": "/static/js/453.404dcecf.chunk.js",
+    "static/media/wrench.png": "/static/media/wrench.23b4c4336e63069f6356.png",
+    "index.html": "/index.html",
+    "main.e10c5432.css.map": "/static/css/main.e10c5432.css.map",
+    "main.0a6f8c46.js.map": "/static/js/main.0a6f8c46.js.map",
+    "453.404dcecf.chunk.js.map": "/static/js/453.404dcecf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e10c5432.css",
+    "static/js/main.0a6f8c46.js"
+  ]
+}
